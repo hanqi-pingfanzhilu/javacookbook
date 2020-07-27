@@ -4,11 +4,12 @@
 # Log file
 *.log
 
-# directories
+# Directories
 /.idea/*
 /target/*
+/out/*
 
-# iml
+# Iml
 *.iml
 
 # BlueJ files
